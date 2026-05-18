@@ -116,9 +116,9 @@ document.addEventListener('DOMContentLoaded', function() {
 // Cambio gradual del fondo
 function changeBackground() {
     const colors = [
-        'linear-gradient(135deg, #ffd1d1 0%, #ff9ecd 100%)',
-        'linear-gradient(135deg, #ffb6c1 0%, #ff69b4 100%)',
-        'linear-gradient(135deg, #ffc0cb 0%, #ff1493 100%)'
+        'linear-gradient(135deg, #0d0015 0%, #2d1b69 100%)',
+        'linear-gradient(135deg, #1a0533 0%, #4c1d95 100%)',
+        'linear-gradient(135deg, #0f0020 0%, #3b0764 100%)'
     ];
     let currentIndex = 0;
 
